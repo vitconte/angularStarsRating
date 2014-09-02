@@ -3,7 +3,7 @@ StarsRating
 
 <h2>Introduction</h2>
 
-A sample stars rating directive.
+A sample stars rating AngularJs directive.
 
 <h2>Usage</h2>
 
