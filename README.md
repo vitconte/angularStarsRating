@@ -10,7 +10,8 @@ A sample stars rating directive.
 How to use it: 
 <ul>
 <li>import the script: &lt;script src="/exp/client/scripts/directives/starsRating.js"&gt; &lt;/script&gt;</li>
-<li>add the directive &lt;ng-rating rating-value="rating" max="5" /&gt; 
+<li>import the script: &lt;script src="/exp/client/scripts/directives/starsRating.css"&gt; &lt;/script&gt;</li>
+<li>add the directive &lt;stars-rating rating-value="rating" max="5" /&gt; 
 <br/>
 where
   <ul>
