@@ -1,4 +1,4 @@
-StarRating
+StarsRating
 ==========
 
 <h2>Introduction</h2>
@@ -9,7 +9,7 @@ A sample stars rating directive.
 
 How to use it: 
 <ul>
-<li>import the script: &lt;script src="/exp/client/scripts/directives/editable.js"&gt; &lt;/script&gt;</li>
+<li>import the script: &lt;script src="/exp/client/scripts/directives/starsRating.js"&gt; &lt;/script&gt;</li>
 <li>add the directive &lt;ng-rating rating-value="rating" max="5" /&gt; 
 <br/>
 where
