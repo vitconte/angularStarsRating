@@ -23,6 +23,8 @@ where
 
 Try it on jsFiddle: http://jsfiddle.net/vitconte/tdRmL/
 
-Find us on:<br/>
-LinkedIn  http://www.linkedin.com/groups/AngularJS-Italia-7442742 <br/>
-Twitter https://twitter.com/AngularJSItalia 
+<div itemscope itemtype="http://data-vocabulary.org/Organization">
+Find us (<span itemprop="name">AngularJs Italia</span>) on:<br/>
+LinkedIn  <span itemprop="url">http://www.linkedin.com/groups/AngularJS-Italia-7442742</span> <br/>
+Twitter <span itemprop="url">https://twitter.com/AngularJSItalia</span>
+</div>
