@@ -1,0 +1,41 @@
+/**************
+    RATING 
+**********************/
+
+ .rating{
+  color: #a9a9a9;
+  margin: 0;
+  padding: 0;
+}
+
+.rating ul {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+.rating li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 1px;
+  text-align: center;
+  font-weight: bold;
+  cursor: pointer;
+  font-size:150%;
+  text-shadow:1px 1px #bbb, 2px 2px #666, .1em .1em .2em rgba(0,0,0,.5);
+}
+
+
+.rating > li:hover,
+.rating > .filled li:hover 
+.rating > li:hover ~ li, 
+.rating > .filled li:hover ~ li{
+    color: gold;
+    text-shadow:1px 1px goldenrod, 2px 2px #B57340, .1em .1em .2em rgba(0,0,0,.5);
+}
+
+
+.rating .filled {
+  color:#ea0;
+  text-shadow:1px 1px goldenrod, 2px 2px #B57340, .1em .1em .2em rgba(0,0,0,.5);
+}
