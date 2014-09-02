@@ -1,0 +1,4 @@
+StarRating
+==========
+
+Star rating directive
